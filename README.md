@@ -38,20 +38,20 @@ This project is a custom-designed printed circuit board (PCB) based on the ESP32
 
  
 
-##Software Used
+## Software Used
  
-- EasyEDA — Schematic capture, PCB layout design, 3D visualization, and Gerber file generation
+- EasyEDA — 
  
  
  
-👤 Author Name
+## Author Name
  
 |MARIMAR|CABATE|
 |------|--------|
  
  
  
-🎓 Course & Section
+## Course & Section
  
  Electronics Engineering — [YOUR SECTION, e.g. EN‑1A] 
  
