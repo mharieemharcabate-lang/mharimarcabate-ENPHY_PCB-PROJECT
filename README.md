@@ -11,9 +11,9 @@ This project is a custom-designed printed circuit board (PCB) based on the ESP32
 
 ✨ Features
  
- |ESP32-DevKit-V1 Module|| 5V Regulated Power||Supply DC Power Input|
- |----------------------||-------------------||---------------------| 
- | Main Power Switch    ||Mode / Signal Selector||Power Filtering|       
+ |ESP32-DevKit-V1 Module|| 5V Regulated Power   ||Supply DC Power Input|
+ |----------------------||-------------------   ||---------------------| 
+ | Main Power Switch    ||Mode / Signal Selector||Power Filtering      |       
  | Full I/O Breakout|   ||   Organized Layout   ||
  
 
