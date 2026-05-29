@@ -9,7 +9,7 @@ This project is a custom-designed printed circuit board (PCB) based on the ESP32
 
 
 
-✨ Features
+## Features
  
  |ESP32-DevKit-V1 Module|| 5V Regulated Power   ||Supply DC Power Input|
  |----------------------||-------------------   ||---------------------| 
