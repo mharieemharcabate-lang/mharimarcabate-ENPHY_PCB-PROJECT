@@ -1,5 +1,4 @@
- 
-📁 Project Title
+ ### PROJECT TITLE
  
 ESP32-DevKit-V1 Custom Board with Regulated Power Supply & Mode Selector
 
