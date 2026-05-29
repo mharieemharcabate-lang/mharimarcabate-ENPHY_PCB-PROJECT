@@ -22,10 +22,23 @@ This project is a custom-designed printed circuit board (PCB) based on the ESP32
 
 
  
- 🧩 Components Used
+## Components Used
+
+ | **Reference** | **Component Name**                                           |
+| ------------- | ------------------------------------------------------------ |
+| U1            | ESP32-DevKit-V1 (30-pin Wi-Fi/Bluetooth Module)              |
+| U2            | AMS1117-5.0 (5V / 1A Voltage Regulator)                      |
+| U3            | MINI-SPDT-SW (Power ON/OFF Switch)                           |
+| U4            | POWER-JACK (2.1mm DC Input Jack)                             |
+| U5            | MTSW-102-10-L-D-472-RA (DPDT Slide Switch — Mode Select)     |
+| C2, C4        | 100nF Ceramic Capacitor                                      |
+| C3, C5        | 10µF Electrolytic Capacitor                                  |
+| Headers       | 2×15 Female Headers (2.54mm pitch, for all GPIO pins)        |
+| Miscellaneous | Mounting holes, ground plane, silkscreen labels, solder pads |
+
  
 
-💻 Software Used
+##Software Used
  
 - EasyEDA — Schematic capture, PCB layout design, 3D visualization, and Gerber file generation
  
