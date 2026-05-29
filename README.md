@@ -1,7 +1,43 @@
-ESP2_DEVKIT_V1 CUSTOM BOARD WITH POWER SUPPLY 
+ 
+📁 Project Title
+ 
+ESP32-DevKit-V1 Custom Board with Regulated Power Supply & Mode Selector
 
-Project Description
 
-ESP2_DEVKIT_V1 is a custom‑made printed circuit board built around the ESP32 microcontroller — designed to be a handy, all‑in‑one tool for learning, testing, and building electronics and IoT projects. I created this board to combine the main ESP32 module with everything it needs to work properly: a stable power supply circuit, a USB connection for programming and power, simple buttons for resetting or changing modes, and all the input/output pins broken out so you can easily connect sensors, motors, displays, or other parts.
-Instead of having to wire up extra components just to get the ESP32 running, this board has it all integrated into one neat, compact design. It’s perfect for students, hobbyists, or anyone who wants a reliable, easy‑to‑use board that works right out of the box — whether you’re just starting out or working on more advanced projects with Wi‑Fi and Bluetooth. 
+📝 Project Description
+ 
+This project is a custom-designed printed circuit board (PCB) based on the ESP32-DevKit-V1 development module. It is designed for embedded systems, IoT prototyping, and general electronics engineering use. The board includes a complete 5V regulated power supply circuit using the AMS1117-5.0 voltage regulator, input power jack, main power switch, and a DPDT slide switch for selecting between two operating modes or signal paths. The layout follows best practices: proper power filtering, stable regulation, short direct traces, clear ground planes, and all GPIO pins broken out to standard headers — making it a reliable, compact, and fully functional development platform.
 
+
+   
+✨ Features
+ 
+✅ ESP32-DevKit-V1 Module —
+✅ 5V Regulated Power Supply —
+✅ DC Power Input — 
+✅ Main Power Switch — 
+✅ Mode / Signal Selector —
+✅ Power Filtering —
+✅ Full I/O Breakout —
+✅ Organized Layout — 
+ 
+ 🧩 Components Used
+ 
+
+💻 Software Used
+ 
+- EasyEDA — Schematic capture, PCB layout design, 3D visualization, and Gerber file generation
+ 
+ 
+ 
+👤 Author Name
+ 
+ [YOUR FULL NAME HERE] 
+ 
+ 
+ 
+🎓 Course & Section
+ 
+ Electronics Engineering — [YOUR SECTION, e.g. EN‑1A] 
+ 
+ 
